@@ -1,0 +1,19 @@
+body{
+background-color: black;
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mdiv{
+    background-color: rgb(189, 137, 229);
+    text-align: center;
+    align-content: center;
+}
+
+.fd {
+    background-color: rgb(230, 237, 232);
+    width: 50em;
+    height: 25em;
+    text-align: center;
+    
+}
